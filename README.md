@@ -35,8 +35,6 @@ react-native run-android
 # for iOS
 react-native run-ios
 
-
-
 ## Tools & Resources
 
 - React-navigation
