@@ -24,7 +24,8 @@ react-native run-android
 ```
 # for iOS
 react-native run-ios
-## App Images
+
+## Screens
 
 <div>
 <img src="./image/kodwork_1.png" width="200" alt="Screens" />
