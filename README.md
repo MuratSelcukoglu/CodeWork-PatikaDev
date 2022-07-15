@@ -14,6 +14,16 @@ Use npm to install all packages of package.json.
 npm install
 ```
 
+## Screens
+
+<div>
+<img src="./image/kodwork_1.png" width="200" alt="Screens" />
+<img src="./image/kodwork_2.png" width="200" alt="Screens" />
+<img src="./image/kodwork_3.png" width="200" alt="Screens" />
+<img src="./image/kodwork_4.png" width="200" alt="Screens" />
+<img src="./image/kodwork_5.png" width="200" alt="Screens" />
+</div>
+
 ## Usage
 
 ```
@@ -25,15 +35,7 @@ react-native run-android
 # for iOS
 react-native run-ios
 
-## Screens
 
-<div>
-<img src="./image/kodwork_1.png" width="200" alt="Screens" />
-<img src="./image/kodwork_2.png" width="200" alt="Screens" />
-<img src="./image/kodwork_3.png" width="200" alt="Screens" />
-<img src="./image/kodwork_4.png" width="200" alt="Screens" />
-<img src="./image/kodwork_5.png" width="200" alt="Screens" />
-</div>
 
 ## Tools & Resources
 
